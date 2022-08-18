@@ -15,4 +15,6 @@ See how your teams can use the same techniques to achieve transformative results
 
 ### Appendix
 - [Hack for LA’s Tools]()
-- [Please provide Update/ 2 weeks inactive](https://github.com/ExperimentsInHonesty/kanban-global-summit-2022/blob/main/please-provide-update.md)
+- [Please provide Update/ 2 weeks inactive](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/please-provide-update.md)
+  
+  
