@@ -14,4 +14,5 @@ See how your teams can use the same techniques to achieve transformative results
 [Maintaining viability and momentum in open-source volunteer projects](https://docs.google.com/presentation/d/1kwwOa9ByVP9BCRao6sf7QRXZBPrTbjyiKDsTY52mjfw/edit#slide=id.p)
 
 ### Appendix
-- Hack for LA’s Tools
+- [Hack for LA’s Tools]()
+- [Please provide Update/ 2 weeks inactive](https://github.com/ExperimentsInHonesty/kanban-global-summit-2022/blob/main/please-provide-update.md)
