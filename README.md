@@ -22,9 +22,10 @@ Time: 4:00 pm - 4:55 pm (PDT)
 
 [KGS: Maintaining viability and momentum in open-source volunteer projects](https://docs.google.com/presentation/d/1kwwOa9ByVP9BCRao6sf7QRXZBPrTbjyiKDsTY52mjfw/edit#slide=id.p)
 
-# Appendix
+## Appendix
 
-## Slide 1
+### Slide 1
+
 The lowest lift tools possible.
 
 Communication tools: 
@@ -37,6 +38,6 @@ Communication tools:
 * Azure
 * 1Password
 
-## Slide 2
+### Slide 2
 
 
