@@ -27,3 +27,4 @@ You are receiving this comment because your last comment was before ${cutoffTime
 ```
 ---
 Content sourced from https://github.com/hackforla/website/wiki/GHA:-add-update-label-weekly
+License at the source: https://github.com/hackforla/website/blob/gh-pages/LICENSE.txt
