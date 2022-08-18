@@ -8,4 +8,6 @@ Hack for LA's TDM calculator project file (in a wiki) https://github.com/hackfor
 
 ---
 - Content sourced from: https://github.com/hackforla/website/
-- License at the source: https://github.com/hackforla/website/blob/gh-pages/LICENSE.txt
+  - License at the source: https://github.com/hackforla/website/blob/gh-pages/LICENSE.txt
+- Content sourced from: https://github.com/hackforla/tdm-calculator
+  - License at the source: https://github.com/hackforla/tdm-calculator/blob/develop/LICENSE
