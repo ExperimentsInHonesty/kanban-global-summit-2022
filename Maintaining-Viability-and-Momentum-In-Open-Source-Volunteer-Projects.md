@@ -12,6 +12,9 @@ See how your teams can use the same techniques to achieve transformative results
 
 ### Presentation Slide Deck
 [Maintaining viability and momentum in open-source volunteer projects](https://docs.google.com/presentation/d/1kwwOa9ByVP9BCRao6sf7QRXZBPrTbjyiKDsTY52mjfw/edit#slide=id.p)
+  
+### How to reach Bonnie
+Find me on LinkedIn https://linkedin.com/in/bonnieawolfe/
 
 ### Appendix
 #### General
