@@ -1,3 +1,5 @@
+# Hack for LA Parent Org & Mission
+
 | Logo | Website                                                                   | Mission                                                                                                                                                                                                                                                    |
 | ---- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![HfLA logo](https://user-images.githubusercontent.com/37763229/103038336-0a112600-4523-11eb-975e-25b942f7bc2e.png) | [Hack for LA](https://hackforla.org/) | Hack for LA brings together civic-minded volunteers to build digital products, programs and services with community partners and local government to address issues in the LA region.
