@@ -1,6 +1,6 @@
 # Talk
 
-### Maintaining viability and momentum in open-source volunteer projects
+### Maintaining Viability and Momentum in Open-Source Volunteer Projects
 <p><img src="https://user-images.githubusercontent.com/37763229/185417756-f6abfaf2-268f-4a41-bc13-554392ee8775.png" width=300px alt="Maintaining viability and momentum in open-source volunteer projects">
 <p>Management wants the improved results that Agile or Lean can bring, but how do you actually do it? Imagine that you couldn’t use money to motivate your team, that they could leave at any time and that you have to meet your stakeholder deadlines because they are counting on you.
 
