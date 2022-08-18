@@ -4,4 +4,4 @@
 - How to Recuit for volunteers outside Meetup
 - Human Centered Design with Vulnerable Populations
 
-* If a talk or workshop is not linked here, it's because its is being kept private until being delivered.
+*If a talk or workshop is not linked here, it's because its is being kept private until being delivered.
