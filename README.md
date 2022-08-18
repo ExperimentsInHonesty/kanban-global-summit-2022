@@ -1,73 +1,42 @@
-# Project title and description
+# Kanban Global Summit 2022
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
+### About
+The Kanban Global Summit, former Lean Kanban North America (LKNA), features world leaders sharing their experiences with the Kanban Method and offering proven techniques.
 
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
-
-### Project context
-
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
-
-### Technology used
-
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
+KGS22 features keynotes, Wednesday workshops, coaching clinics, social receptions, and learning labs. [Find out more about the summit](https://register.kanbanevents.com/event/52b366e6-e669-4ebc-9da2-52f4fa47c8ba/summary)
 
 
+### How Kanban Powered HfLA's Transformation
 
-# How to contribute
+Management wants the improved results that Agile or Lean can bring, but how do you actually do it? Imagine that you couldn’t use money to motivate your team, that they could leave at any time and that you have to meet your stakeholder deadlines because they are counting on you.
+ 
+In this talk you will hear how our open source community used a combination of stripping down a project to the simplest tools possible (Github’s built in, and free, kanban boards) and easily customizable online team workshops to eliminate unfocused team routines, get deep project visibility, increase productivity, increase agency and accountability, reduce rework, publish software faster, improve recruitment, reduce training time, and to increase team adoption, buy-in and focus. All while delighting our product users, stakeholders and team members.
+See how your teams can use the same techniques to achieve transformative results.
 
-Explain the different ways people can contribute. For example:
+### Bonnie Wolfe's Speaking Event
 
-- Join the team {on Slack/at our weekly hack night/etc}.
-- To help with user research, {do ABC}.
-- To provide design support, {do XYZ}.
-- To contribute to the code, follow the instructions below.
+Date: August 22nd 2022
+Time: 4:00 pm - 4:55 pm (PDT)
 
-Remember to provide direct links to each channel.
+### Presentation Deck
 
+[KGS: Maintaining viability and momentum in open-source volunteer projects](https://docs.google.com/presentation/d/1kwwOa9ByVP9BCRao6sf7QRXZBPrTbjyiKDsTY52mjfw/edit#slide=id.p)
 
+# Appendix
 
-## Installation instructions
+## Slide 1
+The lowest lift tools possible.
 
-1. Step-by-step instructions help new contributors get a development environment up and running quickly.
-2. You'll want to find the balance between being specific enough for novices to follow, without being so specific that you reinvent the wheel by providing overly-basic instructions that can be found elsewhere.
-3. Feel free to adapt this section and its sub-sections to your own processes.
-4. Alternatively, you can move everything from *Installation instructions* through *Testing* to a separate **Contributing.md** file to keep your **ReadMe.md** more succinct.
+Communication tools: 
+* GitHub
+* Slack
+* Figma
+* Miro
+* Google Drive
+* AWS 
+* Azure
+* 1Password
 
-
-### Working with issues
-
-- Explain how to submit a bug.
-- Explain how to submit a feature request.
-- Explain how to contribute to an existing issue.
-
-To create a new issue, please use the blank issue template (available when you click New Issue).  If you want to create an issue for other projects to use, please create the issue in your own repository and send a slack message to one of your hack night hosts with the link.
-
-
-### Working with forks and branches
-
-- Explain your guidelines here.
+## Slide 2
 
 
-### Working with pull requests and reviews
-
-- Explain your process.
-
-
-### Testing
-
-- Provide instructions.
-
-
-
-# Contact info
-
-Include at least one way (or more, if possible) to reach your team with questions or comments.
-
-
-### Licensing
-
-Include details about the project's open source status.
-
-*this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
