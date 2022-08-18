@@ -17,7 +17,7 @@ See how your teams can use the same techniques to achieve transformative results
 - [Hack for LA Parent Orgs & Mission](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Parent-Org-And-Mission.md)
 - [Hack for LA’s Tools](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Tools.md)
 - [Hack for LA Recruitment Pipeline](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Recruitment-Pipeline.md)
-- [Please provide Update/ 2 weeks inactive](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/please-provide-update.md)
+- [Please Provide Update/ 2 weeks inactive](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/please-provide-update.md)
 
   
   
