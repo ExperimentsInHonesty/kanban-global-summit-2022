@@ -19,10 +19,11 @@ Find me on LinkedIn https://linkedin.com/in/bonnieawolfe/
 ### Appendix
 #### General
 - [Hack for LA Parent Orgs & Mission](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Parent-Org-And-Mission.md)
-- [Hack for LA’s Tools](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Tools.md)
+- [Hack for LA Tools](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Tools.md)
 - [Hack for LA Recruitment Pipeline](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Recruitment-Pipeline.md)
 
-#### Examples
+#### Examples and Guidance
+- [Hack for LA Kanban Guide]()
 - [Prework Issue](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Prework-Issues.md)
 - [Contributing file](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Contributing.md) 
 - [Leadership Ladder documentation](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Leadership-Ladder-documentation.md)
