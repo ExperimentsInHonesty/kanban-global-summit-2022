@@ -9,5 +9,5 @@ https://github.com/hackforla/website/issues/2537
 - When the assignee gave the update, the automation removed the 2 week inactive label and let the team lead know there was an update on the issue by adding the updated label
 
 ---
-- Content sourced from: [Issues, Closed](https://github.com/hackforla/website/issues?q=is%3Aissue+is%3Aclosed)
+- Content sourced from: [https://github.com/hackforla/website/issues, Closed](https://github.com/hackforla/website/issues?q=is%3Aissue+is%3Aclosed)
 - License at the source: https://github.com/hackforla/website/blob/gh-pages/LICENSE.txt
