@@ -1,4 +1,4 @@
-# Example: Issue formats
+# Example: Issue Formats
 Our GitHub issue templates can be forms or raw markdown
 
 ## Versions
