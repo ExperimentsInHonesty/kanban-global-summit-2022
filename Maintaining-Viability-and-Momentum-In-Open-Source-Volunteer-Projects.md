@@ -14,10 +14,13 @@ See how your teams can use the same techniques to achieve transformative results
 [Maintaining viability and momentum in open-source volunteer projects](https://docs.google.com/presentation/d/1kwwOa9ByVP9BCRao6sf7QRXZBPrTbjyiKDsTY52mjfw/edit#slide=id.p)
 
 ### Appendix
+#### General
 - [Hack for LA Parent Orgs & Mission](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Parent-Org-And-Mission.md)
 - [Hack for LA’s Tools](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Tools.md)
 - [Hack for LA Recruitment Pipeline](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Hack-for-LA-Recruitment-Pipeline.md)
-- [Please Provide Update/ 2 weeks inactive](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/please-provide-update.md)
 
+#### Examples
+- [Prework Issue](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Prework-Issues.md)
+- [Please Provide Update/ 2 weeks inactive](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/please-provide-update.md)
   
   
