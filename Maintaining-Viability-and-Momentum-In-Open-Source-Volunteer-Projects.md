@@ -22,8 +22,8 @@ See how your teams can use the same techniques to achieve transformative results
 #### Examples
 - [Prework Issue](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Prework-Issues.md)
 - [Contributing file](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Contributing.md) 
-- [Leadership Ladder documentation](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Leadership-Ladder-documentation)
-- [Good Issue for Research team member](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Good-Issue-Research)
+- [Leadership Ladder documentation](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Leadership-Ladder-documentation.md)
+- [Good Issue for Research team member](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/Example-Good-Issue-Research.md)
 - [Please Provide Update/ 2 weeks inactive](https://github.com/ExperimentsInHonesty/bonnie-talks/blob/main/resources/please-provide-update.md)
 
 
