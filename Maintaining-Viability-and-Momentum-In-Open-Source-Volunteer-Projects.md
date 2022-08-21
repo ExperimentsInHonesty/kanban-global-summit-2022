@@ -11,7 +11,7 @@ See how your teams can use the same techniques to achieve transformative results
 [Kanban Global Summit 2022](https://register.kanbanevents.com/event/52b366e6-e669-4ebc-9da2-52f4fa47c8ba/summary), August 22nd 2022 4:00 pm - 4:55 pm (PDT)
 
 ### Presentation Slide Deck
-[Maintaining viability and momentum in open-source volunteer projects](https://docs.google.com/presentation/d/1kwwOa9ByVP9BCRao6sf7QRXZBPrTbjyiKDsTY52mjfw/edit#slide=id.p)
+[Maintaining viability and momentum in open-source volunteer projects](https://docs.google.com/presentation/d/1kwwOa9ByVP9BCRao6sf7QRXZBPrTbjyiKDsTY52mjfw/preview)
   
 ### How to reach Bonnie
 Find me on LinkedIn https://linkedin.com/in/bonnieawolfe/
